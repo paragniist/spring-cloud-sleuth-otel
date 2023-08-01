@@ -95,4 +95,3 @@ If you want to learn more about any of the classes discussed in this section, yo
 {github-code}[source code directly].
 If you have specific questions, see the
 <<howto.adoc#howto, how-to>> section.
-
